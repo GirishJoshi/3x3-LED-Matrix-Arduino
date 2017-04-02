@@ -5,6 +5,8 @@ Connect positive terminals of LEDs to pin 8, 9 & 10 and negative terminals of LE
 
 ![Alt text](http://pcbheaven.com/wikipages/images/howkeymatricesworks_1277657675.png "Circuit")
 
+Video: https://www.youtube.com/watch?v=0zIjT7lWDfI
+
 
 
 

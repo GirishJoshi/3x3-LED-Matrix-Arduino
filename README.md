@@ -7,6 +7,8 @@ Connect positive terminals of LEDs to pin 8, 9 & 10 and negative terminals of LE
 
 Video: https://www.youtube.com/watch?v=0zIjT7lWDfI
 
+Matrix Concept: http://pcbheaven.com/wikipages/How_Key_Matrices_Works/
+
 
 
 
